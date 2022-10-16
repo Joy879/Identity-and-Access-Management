@@ -2,7 +2,8 @@ venv/
 .vscode/
 __pycache__/
 test.db
-
+.env
+*.pyc
 # OS generated files #
 ######################
 .DS_Store
@@ -12,3 +13,4 @@ test.db
 .Trashes
 ehthumbs.db
 Thumbs.db
+.idea
